@@ -1,0 +1,9 @@
+Debug/*
+Release/*
+.cache/*
+.metadata/*
+.settings/*
+compile_commands.json
+results/*
+!results/plot.r
+!results/configurations.csv
